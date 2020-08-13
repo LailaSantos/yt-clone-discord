@@ -21,7 +21,7 @@ Daí você roda no terminal `npm start` e abre na porta `http://localhost:3000/`
 
 https://clone-discord-react.netlify.app/ ficou bem massa :sparkles:
 
-### É issooo... 
+### É issooo... :octocat:
 
 ###### Obs: Olha o hover do servidor ali, tá massa kkk.
 ####  Feito com :purple_heart:  by - Laila Roberta :v:.
