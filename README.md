@@ -19,7 +19,7 @@ Daí você roda no terminal `npm start` e abre na porta `http://localhost:3000/`
 
 ### Aqui tem o link do Netlifly 
 
-https://clone-discord-react.netlify.app/
+https://clone-discord-react.netlify.app/ ficou bem massa :sparkles:
 
 ### É issooo... 
 
