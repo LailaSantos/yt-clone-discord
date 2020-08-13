@@ -1,6 +1,6 @@
 
 
-## Clone Discord :book:
+## Clone Discord :book: :zap:
 Esse projeto foi feito para estudos, com o vídeo do youtube lá da Rocketseat, é só uma página estática do discord e coloquei no netlify, tem algumas diferenças no css, e tals...
 
 ## Tecnologias usadas :rocket: 
