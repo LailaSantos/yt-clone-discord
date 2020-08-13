@@ -9,7 +9,7 @@ Esse projeto foi feito para estudos, com o vídeo do youtube lá da Rocketseat, 
 - Node.js
 - Typescript
 
-### Pra rodar :sparkles:
+## Pra rodar :sparkles:
 
 Você só tem que baixar o projeto
 
